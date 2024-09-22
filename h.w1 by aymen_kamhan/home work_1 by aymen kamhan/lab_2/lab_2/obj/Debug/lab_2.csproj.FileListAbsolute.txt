@@ -1,0 +1,20 @@
+E:\running program\rinning c#\part in labs\lab_2\lab_2\bin\Debug\lab_2.exe.config
+E:\running program\rinning c#\part in labs\lab_2\lab_2\bin\Debug\lab_2.exe
+E:\running program\rinning c#\part in labs\lab_2\lab_2\bin\Debug\lab_2.pdb
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.exe
+E:\running program\rinning c#\part in labs\lab_2\lab_2\obj\Debug\lab_2.pdb
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.csproj.AssemblyReference.cache
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.exe
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\obj\Debug\lab_2.pdb
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\bin\Debug\lab_2.exe.config
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\bin\Debug\lab_2.exe
+E:\running program\rinning c#\h.w najmaldden\home work_1 by aymen kamhan\lab_2\lab_2\bin\Debug\lab_2.pdb
