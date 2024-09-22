@@ -1,0 +1,13 @@
+E:\running program\rinning c#\part in labs\lab_3\lab_3\bin\Debug\lab_3.exe.config
+E:\running program\rinning c#\part in labs\lab_3\lab_3\bin\Debug\lab_3.exe
+E:\running program\rinning c#\part in labs\lab_3\lab_3\bin\Debug\lab_3.pdb
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.csproj.AssemblyReference.cache
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.Form1.resources
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.Properties.Resources.resources
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.csproj.GenerateResource.cache
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.csproj.CoreCompileInputs.cache
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.exe
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.pdb
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.sender.resources
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.Form3.resources
+E:\running program\rinning c#\part in labs\lab_3\lab_3\obj\Debug\lab_3.Form4.resources
